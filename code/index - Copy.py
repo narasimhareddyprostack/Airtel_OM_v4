@@ -1,0 +1,5 @@
+print("GM")
+print("GA")
+print("GE")
+print("GN")
+print("GN")
